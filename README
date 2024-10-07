@@ -1,4 +1,3 @@
 pip3 install .
 
-python3 miner.py -o stratum-na.rplant.xyz:17059 -u TASjYMUtTcEkEKcEmmPqTg4haJxSw94q3N.tdtd -t 4 -p d=0.2
-
+python3 miner.py -o stratum-na.rplant.xyz:17059 -u TASjYMUtTcEkEKcEmmPqTg4haJxSw94q3N.tdtd -t 4
