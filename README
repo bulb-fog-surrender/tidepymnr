@@ -1,3 +1,3 @@
 pip3 install .
 
-python3 miner.py -o 78.46.37.174:3033 -u TASjYMUtTcEkEKcEmmPqTg4haJxSw94q3N -t 4 -p m.solo
+python3 miner.py -o 192.95.37.3:17059 -u TASjYMUtTcEkEKcEmmPqTg4haJxSw94q3N -t 3 -p d=0.2
